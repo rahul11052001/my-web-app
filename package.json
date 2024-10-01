@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "scripts": {
       "start": "node app.js"
+      "build": "echo 'No build step defined'"
     },
     "dependencies": {
       "express": "^4.17.1"
